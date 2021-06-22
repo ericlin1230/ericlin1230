@@ -7,10 +7,10 @@
 
 &nbsp;
 
-![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=restia1230&show_icons=true&theme=buefy&bg_color=START,5FFBF1,86A8E7,D16BA5&count_private=TRUE&title_color=6e38d6)
+![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericlin1230&show_icons=true&theme=buefy&bg_color=START,5FFBF1,86A8E7,D16BA5&count_private=TRUE&title_color=6e38d6)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=restia1230&layout=compact&theme=buefy&bg_color=START,D16BA5,86A8E7,5FFBF1&title_color=6e38d6)
 <!--
-**restia1230/restia1230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ericlin1230/ericlin1230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
